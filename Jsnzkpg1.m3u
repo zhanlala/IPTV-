@@ -1,4 +1,35 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN East 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN East 4K CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN West 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN West 4K CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
+#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball TV 1 4K DE
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
+#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball TV 2 4K DE
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950356
+#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball TV 3 4K DE
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951086
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 01
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 02
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 03" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 03
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 01
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 02
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1236473
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 03" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 03
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 04" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 04
+http://wickediptv.xyz/Randall123/Randall321/53390
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/1436346
 #EXTINF:-1 group-title="[三网1]咪视界" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",至臻视界4K
 http://47.100.209.208:8100/TVOD/3000000001000005308.m3u8?token=8520
 #EXTINF:-1 group-title="[三网1]咪视界" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",睛彩竞技
