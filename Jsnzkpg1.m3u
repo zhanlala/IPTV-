@@ -3,13 +3,16 @@
 #EXT-X-APTV-LATENCY: FALSE
 
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120331
+https://idabest.danng.me/live/stream-d316229c-0661-48dc-98ee-0b76b30a3151/index.m3u8?u=gar&p=f56bc9975a91fbc6bb9c7b8c82a04ddf0152932eba5e4fe76d66235454c92669
+
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 4K 02
+http://wickediptv.xyz/Randall123/Randall321/317098
 
 #EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯 2026",FS1 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120332
+http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465857
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯 2026",FS1 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120267
@@ -41,6 +44,9 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120277
 #EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo 01" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="世界杯 2026",Telemundo 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120272
 
+#EXTINF:-1 tvg-id="" tvg-name="Universo" tvg-logo="" group-title="世界杯 2026",Universo
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120328
+
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC 4K UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="世界杯 2026",BBC 4K UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
 
@@ -59,23 +65,20 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 4K FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="世界杯 2026",M6 4K FR
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
 
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 1 4K DV
-https://drm.91porn.stream/play/rIsd_Oa4rBVvrGjTgszWow/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FR" tvg-logo="" group-title="世界杯 2026",beIN SPORTS 1 FR
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/373
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FR" tvg-logo="" group-title="世界杯 2026",beIN SPORTS 2 FR
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/374
 
 #EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 1 4K DE
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
 
 #EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 2 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950356
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/543140
 
-#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 3 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951086
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 4K DE Test" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball.TV 1 4K DE Test
-https://idabest.danng.me/live/stream-677f9479-dad5-42a6-acc0-0f2b0dccde3f/index.m3u8?u=gar&p=2fd631d7c078c9db237efee87656681ed930f27b6c6694b915db52f763fd90aa
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="FUSSBALL.TV 1 4K DV" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",FUSSBALL.TV 1 4K
-https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
+#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball.TV 1 DE
+https://idabest.danng.me/live/stream-677f9479-dad5-42a6-acc0-0f2b0dccde3f/index.m3u8?u=gar&p=f56bc9975a91fbc6bb9c7b8c82a04ddf0152932eba5e4fe76d66235454c92669
 
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="世界杯 2026" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东体育
 https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
@@ -83,26 +86,23 @@ https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
 #EXTINF:-1 tvg-id="ELTASports1.tw" tvg-name="愛爾達體育1台" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/taiwan/elta-sports-1-tw.png?raw=true" group-title="世界杯 2026",愛爾達體育1台
 https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste DE" tvg-logo="" group-title="世界杯 2026",Das Erste DE
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/268004
+
+#EXTINF:-1 tvg-id="" tvg-name="ZDF DE" tvg-logo="" group-title="世界杯 2026",ZDF DE
+http://wickediptv.xyz/Randall123/Randall321/275028
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial ES" tvg-logo="" group-title="世界杯 2026",DAZN Mundial ES
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/158460
+
+#EXTINF:-1 tvg-id="" tvg-name="La 1 ES" tvg-logo="" group-title="世界杯 2026",La 1 ES
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110905
+
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 IT" tvg-logo="" group-title="世界杯 2026",Rai 1 IT
+http://wickediptv.xyz/Randall123/Randall321/294518
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K HDR" tvg-logo="https://assets.bein.com/mena/sites/3/2026/05/4K-HDR-200x200-1.png" group-title="世界杯 2026",beIN SPORTS 4K HDR
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1950411
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 1
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 2
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 3
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944359
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 4
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944360
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 5
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946727
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="世界杯 2026",beIN SPORTS MAX 6
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946735
+http://10.d1-pro.cfd/YDDMDFKN_150076/y65MRYE7/1950411
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 616 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="世界杯 2026",NOW Sports 616 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
@@ -115,6 +115,15 @@ http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="世界杯 2026",NOW Sports 619
 http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK BSP4K JP" tvg-logo="" group-title="世界杯 2026",NHK BSP4K JP
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC KR" tvg-logo="" group-title="世界杯 2026",JTBC KR
+http://115.23.222.106:9981/stream/channelid/38
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA World Cup CH01 SG" tvg-logo="" group-title="世界杯 2026",FIFA World Cup CH01 SG
+https://idabest.danng.me/live/stream-ba5a4d45-33dd-44be-a8e2-aef5c28f5b82/index.m3u8?u=gar&p=f56bc9975a91fbc6bb9c7b8c82a04ddf0152932eba5e4fe76d66235454c92669
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超高清.png" group-title="4K专区" epg-url="https://epg.112114.xyz/pp.xml.gz",CCTV 4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
