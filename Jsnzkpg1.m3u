@@ -1,7 +1,82 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml.gz,https://gh-proxy.org/https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz,https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
-
+#EXTINF:-1 tvg-name="咪视界-3D" group-title="咪咕体育",咪视界-3D
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000027638/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-4K" group-title="咪咕体育",咪视界-4K
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000005180/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" group-title="咪咕体育",至臻视界4K
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000015686/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011528/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011529/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="咪咕体育",睛彩青少
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000031315/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.112114.xyz/logo/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011523/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-01" group-title="咪咕体育",咪视界-01
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000005308/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-02" group-title="咪咕体育",咪视界-02
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000005969/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-03" group-title="咪咕体育",咪视界-03
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000007218/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-04" group-title="咪咕体育",咪视界-04
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000008001/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-05" group-title="咪咕体育",咪视界-05
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000008176/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-06" group-title="咪咕体育",咪视界-06
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000008379/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-07" group-title="咪咕体育",咪视界-07
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000010129/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-08" group-title="咪咕体育",咪视界-08
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000010948/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-09" group-title="咪咕体育",咪视界-09
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000028638/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-10" group-title="咪咕体育",咪视界-10
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000001000031494/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-11" group-title="咪咕体育",咪视界-11
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000005837/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-12" group-title="咪咕体育",咪视界-12
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000000097/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-13" group-title="咪咕体育",咪视界-13
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000002019/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-14" group-title="咪咕体育",咪视界-14
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000003915/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-15" group-title="咪咕体育",咪视界-15
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000004193/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-16" group-title="咪咕体育",咪视界-16
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000006077/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-17" group-title="咪咕体育",咪视界-17
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000006658/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-18" group-title="咪咕体育",咪视界-18
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000009788/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-19" group-title="咪咕体育",咪视界-19
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000010833/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-20" group-title="咪咕体育",咪视界-20
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000011297/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-21" group-title="咪咕体育",咪视界-21
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000011518/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-22" group-title="咪咕体育",咪视界-22
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000012558/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-23" group-title="咪咕体育",咪视界-23
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000012616/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-24" group-title="咪咕体育",咪视界-24
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000019839/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-25" group-title="咪咕体育",咪视界-25
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000021904/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-26" group-title="咪咕体育",咪视界-26
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000023434/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-27" group-title="咪咕体育",咪视界-27
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000025380/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-28" group-title="咪咕体育",咪视界-28
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000031669/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-29" group-title="咪咕体育",咪视界-29
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000027691/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-30" group-title="咪咕体育",咪视界-30
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000015560/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 tvg-name="咪视界-31" group-title="咪咕体育",咪视界-31
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000002809/1.m3u8?channel-id=FifastbLive
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超高清.png" group-title="4K专区" epg-url="https://epg.112114.xyz/pp.xml.gz",CCTV 4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超高清.png" group-title="4K专区" epg-url="https://epg.112114.xyz/pp.xml.gz",CCTV 4K
@@ -669,92 +744,3 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-id="中国交通频道" tvg-name="中国交通频道" tvg-logo="https://epg.112114.xyz/logo/中国交通频道.png" group-title="生活专题" epg-url="https://epg.112114.xyz/pp.xml.gz",中国交通频道
 rtsp://223.99.188.13/PLTV/88888888/224/3221226885/10000100000000060000000004936411_0.smil
-
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",晴彩少年「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",晴彩竞技「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",晴彩篮球「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.yang-1989.xyz/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
